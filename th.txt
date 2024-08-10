@@ -1,0 +1,7 @@
+HTML : tag <h1> <p><q> : identifier 
+how many identifier>
+
+id:<h1 id="txt"> : unique identifier
+name:<p name="add">: non unique identifier
+class : <iframe class  ="demo"> : non unique identifier  *css class
+*/ 
